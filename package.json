@@ -4,11 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "dev": "json-server --watch src/jobs.json --port 4000 && vite",
+    "build": "json-server --watch src/jobs.json --port 4000 && vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview",
-    "jsonserver": "json-server --watch src/jobs.json --port 4000"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.3.1",

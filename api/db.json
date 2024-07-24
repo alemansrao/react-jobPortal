@@ -1,0 +1,214 @@
+{
+    "jobs": [
+      {
+        "id": "1",
+        "title": "Senior React Developer",
+        "type": "Full-Time",
+        "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+        "location": "Boston, MA",
+        "salary": "$70K - $80K",
+        "company": {
+          "name": "NewTek Solutions",
+          "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+          "contactEmail": "contact@teksolutions.com",
+          "contactPhone": "555-555-5555"
+        }
+      },
+      {
+        "id": "2",
+        "title": "Full Stack Developer",
+        "type": "Full-Time",
+        "description": "Looking for a Full Stack Developer proficient in Node.js, Express, and MongoDB. The candidate should have experience with both front-end and back-end technologies.",
+        "location": "San Francisco, CA",
+        "salary": "$85K - $95K",
+        "company": {
+          "name": "Tech Innovators Inc.",
+          "description": "Tech Innovators Inc. focuses on developing cutting-edge technology solutions for businesses worldwide.",
+          "contactEmail": "hr@techinnovators.com",
+          "contactPhone": "555-555-1234"
+        }
+      },
+      {
+        "id": "3",
+        "title": "Front-End Engineer",
+        "type": "Remote",
+        "description": "Seeking a Front-End Engineer with expertise in Vue.js and TypeScript to work on a Remote basis. Remote work options available.",
+        "location": "Remote",
+        "salary": "$50/hr",
+        "company": {
+          "name": "Web Creations",
+          "description": "Web Creations is a web development agency specializing in bespoke web solutions for clients around the globe.",
+          "contactEmail": "jobs@webcreations.com",
+          "contactPhone": "555-555-2345"
+        }
+      },
+      {
+        "id": "4",
+        "title": "Back-End Developer",
+        "type": "Full-Time",
+        "location": "Austin, TX",
+        "description": "We are looking for a Back-End Developer skilled in Python, Django, and PostgreSQL to join our team in Austin, TX.",
+        "salary": "Under $50K",
+        "company": {
+          "name": "DataWorks",
+          "description": "DataWorks specializes in data-driven solutions and analytics for enterprise clients.",
+          "contactEmail": "careers@dataworks.com",
+          "contactPhone": "555-555-3456"
+        }
+      },
+      {
+        "id": "5",
+        "title": "JavaScript Developer",
+        "type": "Part-Time",
+        "description": "Part-time JavaScript Developer needed with experience in modern frameworks like React or Angular. Flexible hours.",
+        "location": "Seattle, WA",
+        "salary": "$45/hr",
+        "company": {
+          "name": "CodeCrafters",
+          "description": "CodeCrafters is a software development firm known for its innovative solutions and creative approach.",
+          "contactEmail": "info@codecrafters.com",
+          "contactPhone": "555-555-4567"
+        }
+      },
+      {
+        "id": "6",
+        "title": "Mobile App Developer",
+        "type": "Full-Time",
+        "description": "Hiring a Mobile App Developer with expertise in React Native and iOS/Android development to work in our New York office.",
+        "location": "New York, NY",
+        "salary": "$100K - $110K",
+        "company": {
+          "name": "AppMasters",
+          "description": "AppMasters is a leading mobile app development company delivering top-notch applications to clients.",
+          "contactEmail": "jobs@appmasters.com",
+          "contactPhone": "555-555-5678"
+        }
+      },
+      {
+        "id": "7",
+        "title": "DevOps Engineer",
+        "type": "Full-Time",
+        "description": "Seeking a DevOps Engineer with experience in AWS, Docker, and Kubernetes to join our team in Denver, CO.",
+        "location": "Denver, CO",
+        "salary": "$95K - $105K",
+        "company": {
+          "name": "CloudGen",
+          "description": "CloudGen provides cloud infrastructure and DevOps solutions to businesses of all sizes.",
+          "contactEmail": "careers@cloudgen.com",
+          "contactPhone": "555-555-6789"
+        }
+      },
+      {
+        "id": "8",
+        "title": "UI/UX Designer",
+        "type": "Full-Time",
+        "description": "We are looking for a talented UI/UX Designer with a strong portfolio in web and mobile design. Remote options available.",
+        "location": "Los Angeles, CA",
+        "salary": "$70K - $80K",
+        "company": {
+          "name": "DesignHub",
+          "description": "DesignHub is a creative agency specializing in user experience and interface design.",
+          "contactEmail": "hr@designhub.com",
+          "contactPhone": "555-555-7890"
+        }
+      },
+      {
+        "id": "9",
+        "title": "Project Manager",
+        "type": "Full-Time",
+        "description": "Experienced Project Manager needed for overseeing multiple web development projects. PMP certification preferred.",
+        "location": "Chicago, IL",
+        "salary": "$85K - $95K",
+        "company": {
+          "name": "ProManage",
+          "description": "ProManage offers project management services and solutions to ensure the success of complex projects.",
+          "contactEmail": "contact@promanage.com",
+          "contactPhone": "555-555-8901"
+        }
+      },
+      {
+        "id": "10",
+        "title": "QA Engineer",
+        "type": "Full-Time",
+        "description": "Hiring a QA Engineer with experience in automated testing tools such as Selenium and Cypress. Position based in Miami, FL.",
+        "location": "Miami, FL",
+        "salary": "$75K - $85K",
+        "company": {
+          "name": "QualityWorks",
+          "description": "QualityWorks is dedicated to providing top-notch QA services to ensure the highest quality software products.",
+          "contactEmail": "jobs@qualityworks.com",
+          "contactPhone": "555-555-9012"
+        }
+      },
+      {
+        "id": "11",
+        "title": "Data Scientist",
+        "type": "Full-Time",
+        "description": "Seeking a Data Scientist with expertise in machine learning and data analytics to join our team in Atlanta, GA.",
+        "location": "Atlanta, GA",
+        "salary": "$110K - $120K",
+        "company": {
+          "name": "DataInsights",
+          "description": "DataInsights provides advanced data analytics and machine learning solutions to clients across various industries.",
+          "contactEmail": "hr@datainsights.com",
+          "contactPhone": "555-555-0123"
+        }
+      },
+      {
+        "id": "12",
+        "title": "Systems Administrator",
+        "type": "Full-Time",
+        "description": "We are looking for a Systems Administrator with experience in Windows and Linux environments. Position is in Houston, TX.",
+        "location": "Houston, TX",
+        "salary": "$80K - $90K",
+        "company": {
+          "name": "SysOps Solutions",
+          "description": "SysOps Solutions provides IT infrastructure and system administration services to businesses.",
+          "contactEmail": "careers@sysopssolutions.com",
+          "contactPhone": "555-555-1235"
+        }
+      },
+      {
+        "id": "13",
+        "title": "Network Engineer",
+        "type": "Full-Time",
+        "description": "Experienced Network Engineer needed with expertise in network design and security. Role based in Phoenix, AZ.",
+        "location": "Phoenix, AZ",
+        "salary": "$85K - $95K",
+        "company": {
+          "name": "NetSecure",
+          "description": "NetSecure specializes in network security and infrastructure solutions for businesses of all sizes.",
+          "contactEmail": "jobs@netsecure.com",
+          "contactPhone": "555-555-2346"
+        }
+      },
+      {
+        "id": "14",
+        "title": "Product Manager",
+        "type": "Full-Time",
+        "description": "Hiring a Product Manager with experience in software development and agile methodologies. Position based in Dallas, TX.",
+        "location": "Dallas, TX",
+        "salary": "$90K - $100K",
+        "company": {
+          "name": "ProdTech",
+          "description": "ProdTech develops innovative software products and solutions for various industries.",
+          "contactEmail": "contact@prodtech.com",
+          "contactPhone": "555-555-3457"
+        }
+      },
+      {
+        "id": "15",
+        "title": "Software Architect",
+        "type": "Full-Time",
+        "description": "Seeking a Software Architect with experience in designing scalable and robust software systems. Remote work options available.",
+        "location": "Remote",
+        "salary": "$120K - $130K",
+        "company": {
+          "name": "ArchSolutions",
+          "description": "ArchSolutions is a technology consulting firm specializing in software architecture and design.",
+          "contactEmail": "hr@archsolutions.com",
+          "contactPhone": "555-555-4568"
+        }
+      }
+    ]
+  }

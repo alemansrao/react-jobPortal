@@ -13,7 +13,7 @@ const App = () => {
   //Add new job
   const addJob = async (newJob) => {
     // console.log(newJob)
-    const res = await fetch('/api/jobs', {
+    const res = await fetch('https://json-server-two-kappa.vercel.app/jobs', {
       method: "POST",
       headers: {
         'Content-Type': 'application/json'
@@ -26,14 +26,14 @@ const App = () => {
   const deleteJob = async (jobID) => {
 
 
-    const res = await fetch(`/api/jobs/${jobID}`, {
+    const res = await fetch(`https://json-server-two-kappa.vercel.app/jobs/${jobID}`, {
       method: "DELETE",
 
     })
   }
   //Update job
   const updateJob = async (updatedJob) => {
-    const res = await fetch(`/api/jobs/${updatedJob.id}`, {
+    const res = await fetch(`https://json-server-two-kappa.vercel.app/jobs/${updatedJob.id}`, {
       method: "PUT",
       headers: {
         'Content-Type': 'application/json'

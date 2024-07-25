@@ -8,7 +8,7 @@ const JobListings = ({ isHome = false }) => {
 
   useEffect(() => {
     const fetchJobs = async () => {
-      const apiURL = isHome ? "/api/jobs?_limit=3" : "/api/jobs"
+      const apiURL = isHome ? "https://json-server-two-kappa.vercel.app/jobs?_limit=3" : "https://json-server-two-kappa.vercel.app/jobs"
       try {
         const res = await fetch(apiURL);
         const data = await res.json();
